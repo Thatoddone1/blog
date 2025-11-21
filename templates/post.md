@@ -1,5 +1,5 @@
 ---
 title: new post
-date: "{{date:DD-MM-YYYY}}"
+date: "{{date:MM-DD-YYYY}}"
 description: an awesome new post
 ---
